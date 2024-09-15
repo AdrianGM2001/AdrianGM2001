@@ -32,7 +32,7 @@ Considero que la seguridad es un aspecto fundamental del uso de la tecnología. 
     ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ## Estadísticas
-    [![Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=AdrianGM2001&langs_count=5&theme=tokyonight)]()
+[![Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=AdrianGM2001&langs_count=5&theme=tokyonight)]()
     
 ## 🔗 Enlaces
 [![telegram](https://img.shields.io/badge/telegram-27A7E7?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/adriangm29)
